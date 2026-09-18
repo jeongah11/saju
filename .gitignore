@@ -9,3 +9,5 @@ dist/
 server/data/
 docs/
 .vite/
+.DS_Store
+**/.DS_Store
